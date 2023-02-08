@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1294603953/vector/abstract-black-stripes-diagonal-background.jpg?s=612x612&w=0&k=20&c=nQZHTk-o97cNVqWnUe8BJg0A5jQG0tqylquzbt9YtcQ=);
+}
+.name{
+    border: 10px solid white;
+    border-radius: 20px;
+    color: rgb(241, 242, 244);
+    padding: 18px;
+    font-family: cambria;
+    font-size: 50px;
+    width: 1335px;
+    background-image: url(https://assets.entrepreneur.com/content/3x2/2000/20150708172005-coding-working-workspace-apple-macintosh.jpeg);
+    background-size: 450px 236px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+    
+}
+
+    .name1{
+        border-radius: 20px;
+        border: 10px solid white;
+        color: rgb(241, 242, 244);
+        padding: 18px;
+        font-family: cambria;
+        font-size: 60px;
+        width: 1335px;
+        background-image: url(https://www.sesd.org/cms/lib/CA01902799/Centricity/Domain/38/attendance%20matters%202.png);
+        background-size: 450px 236px;
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 200px;
+        
+    }
+    .name2{ 
+        border-radius: 20px;
+        border: 10px solid white;
+        color: rgb(241, 242, 244);
+        padding: 18px;
+        font-family: cambria;
+        font-size: 60px;
+        width: 1335px;
+        background-image: url(https://www.successcds.net/wp-content/uploads/2018/12/CGPA.png);
+        background-size: 450px 236px;
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 200px;
+        
+    
+}
+.name3{
+    border-radius: 20px;
+    border: 10px solid white;
+    color: rgb(241, 242, 244);
+    padding: 18px;
+    font-family: cambria;
+    font-size: 60px;
+    width: 1335px;
+    background-image: url(https://i0.wp.com/the-peak.ca/wp-content/uploads/2021/11/allnighter-scaled.jpg?fit=2560%2C1920&ssl=1);
+    background-size: 450px 236px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+   
+}
+.name4{
+    border-radius: 20px;
+    border: 10px solid white;
+    color: rgb(241, 242, 244);
+    padding: 18px;
+    font-family: cambria;
+    font-size: 60px;
+    width: 1335px;
+    background-image: url(https://www.shutterstock.com/image-illustration/3d-illustration-lose-contact-front-600w-1976722859.jpg);
+    background-size: 450px 236px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+    
+}
